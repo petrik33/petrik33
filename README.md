@@ -5,13 +5,11 @@ I am a student of [Belarusian State University](https://bsu.by/en/)
 on the [Faculty of Applied Mathematics and Computer Science](https://fpmi.bsu.by/en/main.aspx).
 I am also a part of the indie game development team [Thirty Three Infinities or TTI Studio](https://thirty-three-infinities.itch.io/)
 
-My biggest passion now is front-end development.
-
 Here I share:
 
-  * 🚀 My Personal Projects
-  * :mortar_board: Student Works
-  * 🎮 Source Code of our Games
+* 🚀 My Personal Projects
+* :mortar_board: Student Works
+* 🎮 Source Code of our Games
 
 
 ## 🌐 Socials:
