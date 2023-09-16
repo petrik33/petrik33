@@ -18,8 +18,6 @@ Here I share:
 
 ## :octocat: GitHub Stats:
 
-![All commits](https://github-readme-streak-stats.herokuapp.com/?user=petrik33&theme=transparent)
+![Readme stats](https://github-readme-stats.vercel.app/api?username=petrik33&theme=transparent&hide=issues,contribs&show_icons=true)
 
-[![Readme stats](https://github-readme-stats.vercel.app/api?username=petrik33&theme=transparent&hide=issues,contribs&show_icons=true)](https://github.com/meteorych/github-readme-stats)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrik33&theme=transparent&hide_progress=true&layout=compact&hide=yacc)](https://github.com/meteorych/github-readme-stats)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=petrik33&theme=transparent&hide_progress=true&layout=compact&hide=yacc)
