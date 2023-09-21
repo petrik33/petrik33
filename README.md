@@ -14,7 +14,7 @@ Here I share:
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D0%BF%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-54913025b/)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/IamAnAlligator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%82%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B9-%D0%BF%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B5%D0%B2%D0%B8%D1%87-54913025b/)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/IamAnAlligator)  [![itch.io](https://img.shields.io/badge/itch.io-%23FF5722.svg?logo=itchdotio&logoColor=white)](https://thirty-three-infinities.itch.io/)
 
 
 ## :octocat: GitHub Stats:
